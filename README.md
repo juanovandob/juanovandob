@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👀 I’m interested in Python, JavaScript, Devops.
-- 🌱 I’m currently learning Django, ReactJs, Docker
+- 🌱 I’m currently learning Node, Django, Docker
 - 👯 I’m collaborating on Moodle LMS - C
 - 💞️ I’m currently collaborating at Moodle LMS colegiojempresarial
 - 📫 How to reach me: juanovandob@gmail.com
